@@ -79,3 +79,13 @@ input.form-control:focus, input.form-control:active {
 .react-datepicker-wrapper input {
   text-align: right;
 }
+
+/* footer */
+.footer {
+  margin: auto;
+  background: #6a1b9a;
+  color: white;
+  font-family: 'Raleway';
+  font-weight: 400;
+  font-size: 1.2rem;
+}
