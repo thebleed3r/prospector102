@@ -5,9 +5,9 @@ import './App.css';
 
 import Header from "./components/header.component";
 import Footer from "./components/footer";
-import ProspectionList from "./components/exercices-list.component";
-import EditProspection from "./components/edit-exercice.component";
-import CreateProspection from "./components/create-exercice.component";
+import ProspectionList from "./components/prospections-list.component";
+import EditProspection from "./components/edit-prospection.component";
+import CreateProspection from "./components/create-prospection.component";
 
 function App() {
   return (
